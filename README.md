@@ -8,9 +8,13 @@ Simulation of reaching with one hand in a straight line.
 4. Reward of 100 is given upon reaching the target state, else a reward of 0 is awarded on each step.
 
 **Experiment Protocol**
+
 _Training_
+
 Each 'learner' participates in an experiment and learns by repeating reaching movement for a set number of trials (episodes). A policy is created here based on the state-action values.
+
 _Post-test_
+
 After the training, the learnt policy is put to test to see if it leads to a succesfull reach. If the reach is succesfull then the learner has learnt the right policy. 
 
 **Parametric Testing**
