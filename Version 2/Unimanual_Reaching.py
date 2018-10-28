@@ -50,7 +50,7 @@ def determine_reward(pos,vel):
     elif pos < 0 or pos > 10.0:
         reward = -100
     else:
-        reward = -10
+        reward = -1
 
     return reward
 
