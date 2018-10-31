@@ -11,10 +11,14 @@ Stage 2: Once the learner achieves a cumulative reward > 900 and <=993 i.e. the 
 Stage 3: Starts when the learner achieves a reward >= 994. 
 
 _Exploration value settings (Stage 1 > Stage 2 > Stage 3)_
-Exploration at each stage under four types of categories as listed below
+Exploration at each stage under four types of categories as listed below:
+
 Type 1: (0.5 > 0.5 > 0.5)
+
 Type 2: (0.5 > 0.5 > 0.3)
+
 Type 3: (0.5 > 0.5 > 0.1)
+
 Type 4: (0.5 > 0.3 > 0.1)
 
 **Results**
