@@ -3,8 +3,11 @@ The results from version two suggested that an epsilon of 0.5 would lead to high
 The goal of this version was to adapt exploration so that the learner takes minimum number of episodes to converge to a desired reward.
 
 **Stagewise Exploration**
+
 Stage 1: The exploration starts with epsilon = 0.5 as long as cumulative reward in an episode is small (<900).
+
 Stage 2: Once the learner achieves a cumulative reward > 900 and <=993 i.e. the learner has identified the target state. Continue exploration to find policy that generates reward >= 994. 
+
 Stage 3: Starts when the learner achieves a reward >= 994. 
 
 _Exploration value settings (Stage 1 > Stage 2 > Stage 3)_
