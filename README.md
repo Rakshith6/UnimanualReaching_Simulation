@@ -7,14 +7,6 @@ Simulation of reaching with one hand in a straight line.
 3. At each step the action is chosen in an epsilon-greedy manner and receives a reward.
 
 
-**Experiment Protocol**
 
-_Training_
-
-Each 'learner' participates in an experiment and learns by repeating the task for a set number of trials (episodes). A policy is learnt based on updated state-action values after each trial.
-
-_Post-test_
-
-After the training, the learnt policy is put to test to see if it leads to a succesfull reach. If the reach is succesfull then the learner has learnt the right policy. 
 
 
