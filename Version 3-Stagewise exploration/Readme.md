@@ -23,10 +23,15 @@ Type 3: (0.5 > 0.5 > 0.1)
 Type 4: (0.5 > 0.3 > 0.1)
 
 **Results**
+
 For each Type of exploration:
 1. Histograms of episodes to convergence and final policy cumulative reward were constructed.
 2. The average episodes to convergence and episode reward were calculated.
+
 Type 1: Avg episode to convergence = 179.3, Avg Reward= 993.47 
+
 Type 2: 161.5, 993.69
+
 Type 3: 145.02, 992.99
+
 Type 4: 195.10, 992.98
