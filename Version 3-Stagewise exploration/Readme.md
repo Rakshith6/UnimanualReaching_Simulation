@@ -24,7 +24,7 @@ Type 4: (0.5 > 0.3 > 0.1)
 
 **Results**
 
-For each Type of exploration, 10000 experiments were conducted to find distribution and average behaviors:
+For each Type of exploration, 10000 experiments were conducted to find distribution and average behaviors. Each experiment was terminated at 500 episodes irrespective reaching stage 2 or 3:
 1. Histograms of episodes to convergence and final policy cumulative reward were constructed.
 2. The average episodes to convergence and episode reward were calculated.
 
