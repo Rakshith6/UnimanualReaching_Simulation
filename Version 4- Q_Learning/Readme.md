@@ -13,5 +13,5 @@ _Results_
    The paramteric analysis plot is attached for reference.
    (i) The fastest average episode to convergence was 40 (alfa = 0.8, epsilon = 0.05) which is much less than the previous versions. 
    (ii) In general the algorithm did much better than the previous adopted versions.
-3. However, some episodes resulted in suboptimal solutions when using high alfa and low epsilon values.
-   The state evolution (reaches in 6 time steps) using optimal actions resulting in highest reward is attached in this repository.
+3. Majority of te experiments resulted in convergence to the most optimal solution of reaching in 6 time steps (The state evolution for this         optimal solution is attached in the repository). However, some episodes resulted in a suboptimal solution of reaching in 7 time steps, when using high alfa and low epsilon values.
+  
