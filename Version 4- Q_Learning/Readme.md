@@ -1,7 +1,12 @@
 ** Q-Learning algorithm to update state action values**
 
-Run the **Parametric_Analysis.py** file. It runs 100 experiments for each pair of alfa and epsilon values and 
-outputs average espisodes to convergence and average experiment reward (reward of the final policy).
+_Files_
+1. Run the **Parametric_Analysis.py** file. It runs 100 experiments for each pair of alfa and epsilon values and 
+   outputs average espisodes to convergence and average experiment reward (reward of the final policy).
+2. The Unimanual_Reaching_QLearning is imported as a module and runs the actual algorithm.
+3. The Draw_3DHist is a module that I have created to draw any general 3D bar plot.
+
+_Results_
 
 1. The alfa and epsilon paramters are crucial towards determining average episodes to convergence.
 2. Conducted a parametric analysis to identify that higher alfa values and lower epsilon values resulted in faster convergence.
