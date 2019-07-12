@@ -30,8 +30,16 @@ For each Type of exploration, 10000 experiments were conducted to find distribut
 
 Type 1: Avg episode to convergence = 179.3, Avg Reward= 993.47 
 
+![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%203-Stagewise%20exploration/Epsilon0.5-0.5-0.5.png)
+
 Type 2: 161.5, 993.69
+
+![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%203-Stagewise%20exploration/Epsilon0.5-0.5-0.3.png)
 
 Type 3: 145.02, 992.99
 
+![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%203-Stagewise%20exploration/Epsilon0.5-0.5-0.1.png)
+
 Type 4: 195.10, 992.98
+
+![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%203-Stagewise%20exploration/Epsilon0.5-0.3-0.5.png)
