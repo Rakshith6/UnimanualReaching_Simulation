@@ -26,10 +26,11 @@ The best combination of parameters will lead to the highest proportion of succes
 
 **Results**
 
-1. There are several possible policies for succesfull learning. Evolution of states for two of those policies are shown in the example plots.
+1. There are several possible policies for succesfull learning. Evolution of states for two of those policies are shown in the example plots. Sub-optimal (left) and optimal (right).
+
 <p float="left">
-  <img src="https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%201/StateEvolution_Episode1000Epsilon0.5_Example1.png" width="500" />
-  <img src="https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%201/StateEvolution_Episode1000Epsilon0.5_Example2.png" width="500" /> 
+  <img src="https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%201/StateEvolution_Episode1000Epsilon0.5_Example1.png" width="300" />
+  <img src="https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%201/StateEvolution_Episode1000Epsilon0.5_Example2.png" width="300" /> 
 </p>
 
 2. Parametric testing revealed that epsilon = 0.5 and episodes = 1000 lead to most number of succesfull learning experiments (100%). Generally, epsilon of 0.5 performed the best and epsilon = 0 was by far the worst.
