@@ -1,5 +1,5 @@
 **Changes**
-1. Altered the reward function to encourage reaching in minimum number of steps
+1. Altered the reward function to encourage faster reaching. Basically gave negative rewards for diverging from the goal position and increased reward for reaching goal state.
 2. Each episode now ends when the target state is reached or when the cursor goes beyond allowed positions. Previously, episodes would continue to run for set number of steps even if target state was reached.
 3. Average rewards generated from the final policies of all experiments are evaluated for each epsilon-episode choice. Note that highest achievable reward is 995.
 
