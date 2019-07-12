@@ -4,7 +4,7 @@ Tabular Q, DQN and DDQN for movement of a cursor (represents the hand) between t
 **Reaching Task**
 1. The task is to move the hand from start state (position, velocity) = (0,0) to a target state (position, velocity) = (8,0).
 2. The hand chooses one of the three acceleration actions  (-1, 0, 1) at each step of movement.
-3. At each step the action is chosen in an epsilon-greedy manner and receives a reward.
+
 
 
 
