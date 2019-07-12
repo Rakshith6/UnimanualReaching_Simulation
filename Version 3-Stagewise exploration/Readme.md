@@ -42,4 +42,4 @@ Type 3: 145.02, 992.99
 
 Type 4: 195.10, 992.98
 
-![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%203-Stagewise%20exploration/Epsilon0.5-0.3-0.5.png)
+![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%203-Stagewise%20exploration/Epsilon0.5-0.3-0.1.png)
