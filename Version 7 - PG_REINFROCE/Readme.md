@@ -1,6 +1,6 @@
 # Policy gradients  - REINFORCE
 
-# Neural network
+## Neural network
 * Two fully connected hidden layers with ReLU activation. 
 * Softmax activation on the logits layer to obtain action probabilities.
 * Adam optimizer with - loss function = softmax cross entropy on action probabilities * advantage
