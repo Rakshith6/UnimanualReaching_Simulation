@@ -15,7 +15,7 @@
 
 ![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%207%20-%20PG_REINFROCE/Sub-optimal_state_evolution.png)
 
-* The average reward and loss from 50 runs is shown below. 
+* The average reward and loss from 50 runs is shown below. The maximum reward possible is 940. Used the same reward function from the first few versions.
 ![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%207%20-%20PG_REINFROCE/average_reward.png) ![](https://github.com/Rakshith6/UnimanualReaching_Simulation/blob/master/Version%207%20-%20PG_REINFROCE/average_loss.png)
 
 
